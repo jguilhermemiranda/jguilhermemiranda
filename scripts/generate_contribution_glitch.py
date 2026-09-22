@@ -11,7 +11,7 @@ GITHUB_USERNAME = "jguilhermemiranda"
 
 TOKEN = os.environ.get("GITHUB_TOKEN")
 MAX_GRAPHQL_ATTEMPTS = 4
-GLITCH_PROBABILITY = 0.18
+GLITCH_PROBABILITY = 0.32
 
 if not TOKEN:
     raise RuntimeError("GITHUB_TOKEN não encontrado.")
@@ -245,9 +245,6 @@ def generate_svg(calendar):
 
             level = contribution_level(count, maximum)
 
-            if level == 0:
-                continue
-
             color = colors[level]
 
             x = 10 + week_index * (cell_size + gap)
@@ -262,7 +259,7 @@ def generate_svg(calendar):
     for index, (x, y, color) in enumerate(glitch_cells):
 
         # Different timing for every glitch fragment
-        delay = (index % 17) * 0.17
+        delay = (index % 11) * 0.08
 
         svg.append(
             f'''
@@ -293,7 +290,7 @@ def generate_svg(calendar):
                   0.54;
                   0.60;
                   1"
-                dur="3.7s"
+                dur="1.15s"
                 begin="{delay:.2f}s"
                 repeatCount="indefinite"/>
 
@@ -301,7 +298,7 @@ def generate_svg(calendar):
                 attributeName="opacity"
                 values="0;0;0.9;0.45;1;0"
                 keyTimes="0;0.44;0.48;0.52;0.58;0.65"
-                dur="3.7s"
+                dur="1.15s"
                 begin="{delay:.2f}s"
                 repeatCount="indefinite"/>
 
@@ -326,13 +323,13 @@ def generate_svg(calendar):
         <animate
           attributeName="opacity"
           values="0;0;0.55;0;0;0"
-          dur="4.2s"
+          dur="1.8s"
           repeatCount="indefinite"/>
 
         <animate
           attributeName="y"
           values="25;25;70;110;45;25"
-          dur="4.2s"
+          dur="1.8s"
           repeatCount="indefinite"/>
 
       </rect>
@@ -348,7 +345,7 @@ def generate_svg(calendar):
         <animate
           attributeName="opacity"
           values="0;0.7;0;0;0.5;0"
-          dur="2.8s"
+          dur="1.25s"
           repeatCount="indefinite"/>
 
       </rect>

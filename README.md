@@ -178,7 +178,7 @@ Tenho especial interesse em projetos que combinam **programação, matemática, 
 <div align="center">
 
 <img
-  src="./contribution-glitch.svg"
+  src="https://raw.githubusercontent.com/jguilhermemiranda/jguilhermemiranda/main/contribution-glitch.svg"
   alt="GitHub Contribution Graph"
 />
 
