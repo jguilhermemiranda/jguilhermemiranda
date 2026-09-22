@@ -43,16 +43,38 @@ def github_graphql(query):
         headers={
             "Authorization": f"Bearer {TOKEN}",
             "Content-Type": "application/json",
-            "User-Agent": "contribution-glitch-generator",
+            "Accept": "application/json",
+            "User-Agent": "jguilhermemiranda-contribution-glitch",
         },
         method="POST",
     )
 
-    with urllib.request.urlopen(request) as response:
-        result = json.loads(response.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            result = json.loads(response.read().decode("utf-8"))
+
+    except urllib.error.HTTPError as error:
+        body = error.read().decode("utf-8", errors="replace")
+        raise RuntimeError(
+            f"GitHub GraphQL HTTP {error.code}: {body}"
+        ) from error
+
+    except urllib.error.URLError as error:
+        raise RuntimeError(
+            f"Erro de conexão com GitHub GraphQL: {error}"
+        ) from error
 
     if "errors" in result:
-        raise RuntimeError(result["errors"])
+        raise RuntimeError(
+            "GitHub GraphQL retornou erros:\n"
+            + json.dumps(result["errors"], indent=2)
+        )
+
+    if "data" not in result or "viewer" not in result["data"]:
+        raise RuntimeError(
+            "Resposta inesperada da API:\n"
+            + json.dumps(result, indent=2)
+        )
 
     return result["data"]["viewer"]
 
