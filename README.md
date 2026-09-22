@@ -149,7 +149,7 @@ Minha formação em Mecatrônica é uma das bases do meu interesse por **sistema
 <img src="https://streak-stats.demolab.com?user=jguilhermemiranda&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 </div>
----
+
 
 Tenho especial interesse em projetos que combinam **programação, matemática, eletrônica e sistemas físicos**.
 
