@@ -36,49 +36,62 @@ query {
 }
 """
 
+
 def github_graphql(query):
     data = json.dumps({"query": query}).encode("utf-8")
+    headers = {
+        "Authorization": f"Bearer {TOKEN}",
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "User-Agent": "jguilhermemiranda-contribution-glitch",
+    }
 
-    request = urllib.request.Request(
-        GITHUB_API,
-        data=data,
-        headers={
-            "Authorization": f"Bearer {TOKEN}",
-            "Content-Type": "application/json",
-            "Accept": "application/json",
-            "User-Agent": "jguilhermemiranda-contribution-glitch",
-        },
-        method="POST",
-    )
+    last_error = None
 
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            result = json.loads(response.read().decode("utf-8"))
-
-    except urllib.error.HTTPError as error:
-        body = error.read().decode("utf-8", errors="replace")
-        raise RuntimeError(
-            f"GitHub GraphQL HTTP {error.code}: {body}"
-        ) from error
-
-    except urllib.error.URLError as error:
-        raise RuntimeError(
-            f"Erro de conexão com GitHub GraphQL: {error}"
-        ) from error
-
-    if "errors" in result:
-        raise RuntimeError(
-            "GitHub GraphQL retornou erros:\n"
-            + json.dumps(result["errors"], indent=2)
+    for attempt in range(MAX_GRAPHQL_ATTEMPTS):
+        request = urllib.request.Request(
+            GITHUB_API,
+            data=data,
+            headers=headers,
+            method="POST",
         )
 
-    if "data" not in result or "viewer" not in result["data"]:
-        raise RuntimeError(
-            "Resposta inesperada da API:\n"
-            + json.dumps(result, indent=2)
-        )
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                result = json.loads(response.read().decode("utf-8"))
 
-    return result["data"]["viewer"]
+        except urllib.error.HTTPError as error:
+            body = error.read().decode("utf-8", errors="replace")
+            last_error = RuntimeError(
+                f"GitHub GraphQL HTTP {error.code}: {body}"
+            )
+            if error.code not in {429, 500, 502, 503, 504}:
+                raise last_error from error
+
+        except urllib.error.URLError as error:
+            last_error = RuntimeError(
+                f"Erro de conexão com GitHub GraphQL: {error}"
+            )
+
+        else:
+            if "errors" not in result:
+                if "data" not in result or "viewer" not in result["data"]:
+                    raise RuntimeError(
+                        "Resposta inesperada da API:\n"
+                        + json.dumps(result, indent=2)
+                    )
+
+                return result["data"]["viewer"]
+
+            last_error = RuntimeError(
+                "GitHub GraphQL retornou erros:\n"
+                + json.dumps(result["errors"], indent=2)
+            )
+
+        if attempt < MAX_GRAPHQL_ATTEMPTS - 1:
+            time.sleep(2 ** attempt)
+
+    raise last_error
 
 
 def contribution_level(count, maximum):
