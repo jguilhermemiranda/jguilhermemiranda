@@ -4422,10 +4422,94 @@
                   rx="2"
                   fill="#A78BFA"
                   data-date="2026-09-22"
-                  data-count="32">
+                  data-count="34">
                 </rect>
                 
 <g filter="url(#glow)" opacity="0.85">
+
+            <rect
+              x="760"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#3B176D">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="3.7s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="3.7s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="790"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#A78BFA">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="3.7s"
+                begin="0.17s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="3.7s"
+                begin="0.17s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
 </g>
 
     <g>
