@@ -4422,10 +4422,4210 @@
                   rx="2"
                   fill="#A78BFA"
                   data-date="2026-09-22"
-                  data-count="34">
+                  data-count="35">
                 </rect>
                 
 <g filter="url(#glow)" opacity="0.85">
+
+            <rect
+              x="10"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="10"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="10"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="40"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="40"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="55"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="55"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="70"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="70"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="85"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="100"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="115"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="130"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="130"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="130"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="130"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="130"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="145"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="160"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="175"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="175"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="190"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="205"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="220"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="220"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="235"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="235"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="250"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="250"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="250"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="265"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="265"
+              y="70"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="280"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="280"
+              y="70"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="295"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="295"
+              y="70"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="310"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="325"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="325"
+              y="70"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="325"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="325"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="340"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="340"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="355"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="355"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="370"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="370"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="385"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="385"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="400"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="400"
+              y="70"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="415"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="430"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="430"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="430"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="445"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="460"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="475"
+              y="70"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="490"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="490"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="490"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="505"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="505"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="505"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="505"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="520"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="520"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="535"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="535"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="535"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="535"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="550"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="550"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="550"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="550"
+              y="70"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="580"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="580"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="610"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="610"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="610"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="625"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="625"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="640"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="640"
+              y="40"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="640"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="655"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="655"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="655"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="670"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="670"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="685"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="685"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.24s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="685"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.32s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="685"
+              y="70"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.40s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="700"
+              y="85"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.48s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="715"
+              y="25"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.56s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="715"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.64s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="745"
+              y="10"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.72s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="745"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.80s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="760"
+              y="55"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.00s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
 
             <rect
               x="760"
@@ -4454,16 +8654,58 @@
                   0.54;
                   0.60;
                   1"
-                dur="3.7s"
-                begin="0.00s"
+                dur="1.15s"
+                begin="0.08s"
                 repeatCount="indefinite"/>
 
               <animate
                 attributeName="opacity"
                 values="0;0;0.9;0.45;1;0"
                 keyTimes="0;0.44;0.48;0.52;0.58;0.65"
-                dur="3.7s"
-                begin="0.00s"
+                dur="1.15s"
+                begin="0.08s"
+                repeatCount="indefinite"/>
+
+            </rect>
+            
+
+            <rect
+              x="775"
+              y="100"
+              width="12"
+              height="12"
+              rx="2"
+              fill="#161b22">
+
+              <animateTransform
+                attributeName="transform"
+                type="translate"
+                values="
+                  0 0;
+                  0 0;
+                  7 0;
+                  -4 0;
+                  2 0;
+                  0 0;
+                  0 0"
+                keyTimes="
+                  0;
+                  0.45;
+                  0.48;
+                  0.51;
+                  0.54;
+                  0.60;
+                  1"
+                dur="1.15s"
+                begin="0.16s"
+                repeatCount="indefinite"/>
+
+              <animate
+                attributeName="opacity"
+                values="0;0;0.9;0.45;1;0"
+                keyTimes="0;0.44;0.48;0.52;0.58;0.65"
+                dur="1.15s"
+                begin="0.16s"
                 repeatCount="indefinite"/>
 
             </rect>
@@ -4496,16 +8738,16 @@
                   0.54;
                   0.60;
                   1"
-                dur="3.7s"
-                begin="0.17s"
+                dur="1.15s"
+                begin="0.24s"
                 repeatCount="indefinite"/>
 
               <animate
                 attributeName="opacity"
                 values="0;0;0.9;0.45;1;0"
                 keyTimes="0;0.44;0.48;0.52;0.58;0.65"
-                dur="3.7s"
-                begin="0.17s"
+                dur="1.15s"
+                begin="0.24s"
                 repeatCount="indefinite"/>
 
             </rect>
@@ -4525,13 +8767,13 @@
         <animate
           attributeName="opacity"
           values="0;0;0.55;0;0;0"
-          dur="4.2s"
+          dur="1.8s"
           repeatCount="indefinite"/>
 
         <animate
           attributeName="y"
           values="25;25;70;110;45;25"
-          dur="4.2s"
+          dur="1.8s"
           repeatCount="indefinite"/>
 
       </rect>
@@ -4547,7 +8789,7 @@
         <animate
           attributeName="opacity"
           values="0;0.7;0;0;0.5;0"
-          dur="2.8s"
+          dur="1.25s"
           repeatCount="indefinite"/>
 
       </rect>
