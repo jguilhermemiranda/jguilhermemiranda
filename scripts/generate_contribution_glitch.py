@@ -168,7 +168,6 @@ def generate_svg(calendar):
             x = 10 + week_index * (cell_size + gap)
             y = 10 + weekday * (cell_size + gap)
 
-            # Slight rounding like GitHub
             svg.append(
                 f'''
                 <rect
@@ -185,9 +184,6 @@ def generate_svg(calendar):
             )
 
     # Glitch overlay
-    #
-    # These are copies of randomly selected cells.
-    # They briefly move horizontally, creating the glitch effect.
     glitch_cells = []
 
     for week_index, week in enumerate(weeks):
@@ -211,9 +207,7 @@ def generate_svg(calendar):
             x = 10 + week_index * (cell_size + gap)
             y = 10 + weekday * (cell_size + gap)
 
-            glitch_cells.append(
-                (x, y, color)
-            )
+            glitch_cells.append((x, y, color))
 
     svg.append(
         '<g filter="url(#glow)" opacity="0.85">'
