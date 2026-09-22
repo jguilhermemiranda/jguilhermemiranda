@@ -7,6 +7,7 @@ import urllib.request
 
 GITHUB_API = "https://api.github.com/graphql"
 OUTPUT_FILE = "contribution-glitch.svg"
+GITHUB_USERNAME = "jguilhermemiranda"
 
 TOKEN = os.environ.get("GITHUB_TOKEN")
 MAX_GRAPHQL_ATTEMPTS = 4
@@ -16,8 +17,8 @@ if not TOKEN:
 
 
 QUERY = """
-query {
-  viewer {
+query($login: String!) {
+    user(login: $login) {
     login
     contributionsCollection(
       from: "2025-09-22T00:00:00Z"
@@ -40,7 +41,12 @@ query {
 
 
 def github_graphql(query):
-    data = json.dumps({"query": query}).encode("utf-8")
+    data = json.dumps(
+        {
+            "query": query,
+            "variables": {"login": GITHUB_USERNAME},
+        }
+    ).encode("utf-8")
     headers = {
         "Authorization": f"Bearer {TOKEN}",
         "Content-Type": "application/json",
@@ -77,13 +83,13 @@ def github_graphql(query):
 
         else:
             if "errors" not in result:
-                if "data" not in result or "viewer" not in result["data"]:
+                if "data" not in result or "user" not in result["data"]:
                     raise RuntimeError(
                         "Resposta inesperada da API:\n"
                         + json.dumps(result, indent=2)
                     )
 
-                return result["data"]["viewer"]
+                return result["data"]["user"]
 
             last_error = RuntimeError(
                 "GitHub GraphQL retornou erros:\n"
