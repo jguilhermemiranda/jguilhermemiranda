@@ -173,7 +173,7 @@ Tenho especial interesse em projetos que combinam **programação, matemática, 
 
 <br><br>
 
-## 💜 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
