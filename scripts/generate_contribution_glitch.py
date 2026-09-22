@@ -1,6 +1,7 @@
 import json
 import os
 import random
+import time
 import urllib.request
 
 
@@ -8,6 +9,7 @@ GITHUB_API = "https://api.github.com/graphql"
 OUTPUT_FILE = "contribution-glitch.svg"
 
 TOKEN = os.environ.get("GITHUB_TOKEN")
+MAX_GRAPHQL_ATTEMPTS = 4
 
 if not TOKEN:
     raise RuntimeError("GITHUB_TOKEN não encontrado.")
