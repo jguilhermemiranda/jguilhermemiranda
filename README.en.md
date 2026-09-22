@@ -184,7 +184,7 @@ I'm particularly interested in projects that combine **programming, mathematics,
 
 <br><br>
 
-## 💜 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
