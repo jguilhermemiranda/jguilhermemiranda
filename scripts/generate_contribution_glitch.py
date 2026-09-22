@@ -17,7 +17,10 @@ QUERY = """
 query {
   viewer {
     login
-    contributionsCollection {
+    contributionsCollection(
+      from: "2025-09-22T00:00:00Z"
+      to: "2026-09-22T23:59:59Z"
+    ) {
       contributionCalendar {
         totalContributions
         weeks {
@@ -32,7 +35,6 @@ query {
   }
 }
 """
-
 
 def github_graphql(query):
     data = json.dumps({"query": query}).encode("utf-8")
