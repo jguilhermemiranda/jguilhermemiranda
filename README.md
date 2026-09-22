@@ -64,24 +64,16 @@ Aqui estão alguns dos projetos que melhor representam o que venho estudando e c
 
 <div align="center">
 
-<a href="https://github.com/joaoguilhermeomiranda-sketch/projectile-motion-simulator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoguilhermeomiranda-sketch&repo=projectile-motion-simulator&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-
-<a href="https://github.com/joaoguilhermeomiranda-sketch/SEU-REPOSITORIO-DETERMINANT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoguilhermeomiranda-sketch&repo=SEU-REPOSITORIO-DETERMINANT&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
+<a href="https://github.com/jguilhermemiranda/projectile-motion-simulator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jguilhermemiranda&repo=projectile-motion-simulator&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/joaoguilhermeomiranda-sketch/SEU-REPOSITORIO-APTA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoguilhermeomiranda-sketch&repo=SEU-REPOSITORIO-APTA&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-
-<a href="https://github.com/joaoguilhermeomiranda-sketch/smart-stock">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoguilhermeomiranda-sketch&repo=smart-stock&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
+<a href="https://github.com/jguilhermemiranda/smart-stock">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jguilhermemiranda&repo=smart-stock&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
 </a>
 
 </div>
@@ -148,26 +140,15 @@ Minha formação em Mecatrônica é uma das bases do meu interesse por **sistema
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaoguilhermeomiranda-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jguilhermemiranda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermeomiranda-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguilhermemiranda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=joaoguilhermeomiranda-sketch&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com?user=jguilhermemiranda&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 </div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoguilhermeomiranda-sketch&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" />
-
-</div>
-
 ---
 
 Tenho especial interesse em projetos que combinam **programação, matemática, eletrônica e sistemas físicos**.
@@ -178,7 +159,7 @@ Tenho especial interesse em projetos que combinam **programação, matemática, 
 
 <div align="center">
 
-<a href="https://github.com/joaoguilhermeomiranda-sketch">
+<a href="https://github.com/jguilhermemiranda">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
