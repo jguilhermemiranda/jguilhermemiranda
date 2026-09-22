@@ -11,6 +11,7 @@ GITHUB_USERNAME = "jguilhermemiranda"
 
 TOKEN = os.environ.get("GITHUB_TOKEN")
 MAX_GRAPHQL_ATTEMPTS = 4
+GLITCH_PROBABILITY = 0.18
 
 if not TOKEN:
     raise RuntimeError("GITHUB_TOKEN não encontrado.")
@@ -236,7 +237,7 @@ def generate_svg(calendar):
         for day in week["contributionDays"]:
 
             # Only some cells participate in the glitch.
-            if random.random() > 0.055:
+            if random.random() > GLITCH_PROBABILITY:
                 continue
 
             weekday = day["weekday"]
