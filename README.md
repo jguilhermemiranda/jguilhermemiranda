@@ -192,6 +192,15 @@ Tenho especial interesse em projetos que combinam **programação, matemática, 
 
 <br><br>
 
-<sub>💜 Building, learning and experimenting.</sub>
+## 💜 Contribution Graph
+
+<div align="center">
+
+<img
+  src="./contribution-glitch.svg"
+  alt="GitHub Contribution Graph"
+/>
+
+</div>
 
 </div>
