@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=~%2Fguy;software+engineering+%2B+mechatronics;building+things+since+3+AM" alt="terminal typing" />
+<img src="terminal-glitch-en.svg" alt="Animated terminal glitch banner" />
 
 </div>
 
@@ -20,17 +20,6 @@
 > profile status: stable-ish
 > operator: human // proceed with caution
 ```
-
-`// FAST_GLITCH :: 0x47 0x55 0x59 :: SIGNAL//LOST :: 404`
-
-```text
->>> SIGNAL BURST // 00110111 01000101 01011001 <<<
-ERR::MEMORY_FRAGMENTED  ERR::INPUT_UNSTABLE  ERR::COFFEE_MISSING
-░░░ /dev/curiosity :: READ :: WRITE :: OVERFLOW ░░░
-<<< SIGNAL RESTORED // packet 0xFF // checksum: suspicious >>>
-```
-
-`// glitch.exe --intensity=MAX --speed=FAST --damage=cosmetic :: ███ [RENDERING] ███`
 
 ## `$ whoami`
 
@@ -69,8 +58,6 @@ It started as a Physics exercise. It got a graph. Things escalated.
 
 `[TRACE//FAST] input: curiosity  ->  output: one more experiment  ->  status: apparently working`
 
-`<<<< 0011 // 404 // 0011 >>>> [buffer corruption detected] <<<< 1100 // 1100 >>>>`
-
 <br>
 
 ## `$ ls projects/`
@@ -107,10 +94,7 @@ I have a dangerous habit of turning “this would be interesting to test” into
 [...] embedded systems
 [...] mathematical modeling & physics simulation
 [..//WARN..] progress detected; restarting focus...
-[ERR//LOOP] focus interrupted by a new idea
 ```
-
-`tail -f: ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 87%`
 
 <br>
 

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal glitch banner</title>
+  <desc id="desc">Animated purple terminal text with controlled horizontal glitch artifacts.</desc>
+  <defs>
+    <filter id="soft-glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="slice-a">
+      <rect x="0" y="39" width="760" height="8"/>
+    </clipPath>
+    <clipPath id="slice-b">
+      <rect x="0" y="91" width="760" height="6"/>
+    </clipPath>
+  </defs>
+
+  <rect width="760" height="150" rx="8" fill="#0d1117"/>
+  <path d="M24 20H736M24 130H736" stroke="#A78BFA" stroke-opacity=".18"/>
+
+  <g font-family="Fira Code, monospace" fill="#C4B5FD" filter="url(#soft-glow)">
+    <text x="34" y="48" font-size="25" font-weight="700">$ ~ /guy</text>
+    <text x="34" y="82" font-size="18">software engineering // mechatronics</text>
+    <text x="34" y="116" font-size="18">building things since 3 AM</text>
+  </g>
+
+  <g font-family="Fira Code, monospace" fill="#8B5CF6" opacity=".8">
+    <g clip-path="url(#slice-a)">
+      <text x="34" y="48" font-size="25" font-weight="700">
+        <animate attributeName="x" values="34;58;12;49;34" dur=".42s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="48;55;40;52;48" dur=".42s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.9;0;.75;0" dur=".42s" repeatCount="indefinite"/>
+        $ ~ /guy
+      </text>
+    </g>
+    <g clip-path="url(#slice-b)">
+      <text x="34" y="116" font-size="18">
+        <animate attributeName="x" values="34;6;66;18;34" dur=".34s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="116;106;126;111;116" dur=".34s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.8;0;.6;0" dur=".34s" repeatCount="indefinite"/>
+        building things since 3 AM
+      </text>
+    </g>
+  </g>
+
+  <g fill="#DDD6FE" font-family="Fira Code, monospace" font-size="10" opacity=".8">
+    <text x="34" y="143">SYS::ONLINE</text>
+    <text x="652" y="143">
+      <animate attributeName="opacity" values=".2;1;.2" dur=".9s" repeatCount="indefinite"/>
+      SIGNAL::87%
+    </text>
+  </g>
+</svg>
