@@ -15,27 +15,26 @@
 <br>
 
 ```text
-┌─[ PROFILE NODE // GUY ]──────────────────────────────────────────────┐
-│  [ SYSTEM ONLINE ]  :: signal integrity 87%  :: tty/0               │
-│  > initializing ./guy ...                                            │
-│  > loading engineering_stack ...                                    │
-│  > warning: human operator detected                                 │
-└───────────────────────────────[ // connection stable-ish ]───────────┘
+[ SYSTEM ONLINE ]  /guy  :: tty/0  :: signal 87%
+> loading engineering_stack ...
+> profile status: stable-ish
+> operator: human // proceed with caution
 ```
 
-`█▓▒░ 0x47 0x55 0x59 :: signal acquired :: 404 ambition not found ░▒▓█`
+`// 0x47 0x55 0x59 :: signal acquired :: 404 ambition not found`
 
 ```text
 >>> SIGNAL BURST // 00110111 01000101 01011001 <<<
 ERR::MEMORY_FRAGMENTED  ERR::INPUT_UNSTABLE  ERR::COFFEE_MISSING
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-░░░░░  /dev/curiosity  ::  READ  ::  WRITE  ::  OVERFLOW  ░░░░░
+░░░ /dev/curiosity :: READ :: WRITE :: OVERFLOW ░░░
 <<< SIGNAL RESTORED // packet 0xFF // checksum: suspicious >>>
 ```
 
 `// glitch.exe --intensity=MAX --speed=FAST --damage=cosmetic :: ███ [RENDERING] ███`
 
 ## `$ whoami`
+
+`[ IDENTITY ] // online // signal: clean`
 
 João Guilherme de O. Miranda. Online, só **Guy**.
 
@@ -54,7 +53,8 @@ curiosity: permanent    sleep: deprecated
 
 ## `$ cat interesses.txt`
 
-<<<<<<< HEAD
+`[ MODULES ] // loaded: 07 // interference: low`
+
 ```
 Python            → automação, ciência, experimentos que fogem do escopo original
 C++               → sistemas embarcados, coisas que precisam rodar sem desculpa
@@ -64,10 +64,6 @@ sistemas embarcados, eletrônica, automação
 física, matemática, computação científica
 inteligência artificial
 ```
-=======
-</div>
-
->>>>>>> cb6f22790209ba58fdf22e3f657ba13f6288a3c1
 
 Começou como exercício de Física. Ganhou um gráfico. As coisas escalaram.
 
@@ -78,6 +74,8 @@ Começou como exercício de Física. Ganhou um gráfico. As coisas escalaram.
 <br>
 
 ## `$ ls projetos/`
+
+`[ DIRECTORY ] // projects // scan: stable-ish`
 
 `[LIVE FEED] projects/ :: scan 100% :: anomaly count: 02 :: visual noise: HIGH`
 
@@ -99,6 +97,8 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
 
 ## `$ tail -f estudando_agora.log`
 
+`[ STREAM ] // learning_now.log // live feed`
+
 ```
 [...] estruturas de dados & algoritmos
 [...] arquitetura de software
@@ -116,6 +116,8 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
 
 ## `$ cat formacao.md`
 
+`[ RECORD ] // education // checksum: valid`
+
 **Engenharia de Software** — UGB *(em andamento)*
 **Técnico em Mecatrônica** — ICT *(concluído)*
 
@@ -129,6 +131,8 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
 
 ## `$ contact`
 
+`[ LINK ] // contact ports // signal: open`
+
 <div align="center">
 
 <a href="https://github.com/jguilhermemiranda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -140,10 +144,8 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
 <!-- se você está lendo o raw, provavelmente já sabe que este commit funciona e não funciona até alguém rodar o build -->
 
 ```text
-┌── transport layer ───────────────────────────────────────────────────┐
-│ github://jguilhermemiranda       linkedin://joão-guilherme-o-953561313 │
-│ status: reachable                 packet loss: probably intentional   │
-└───────────────────────────────────────────────────────────────────────┘
+github://jguilhermemiranda   linkedin://joão-guilherme-o-953561313
+status: reachable             packet loss: probably intentional
 ```
 
 ---
@@ -154,6 +156,8 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
 
 ##  Contribution Graph
 
+`[ CONTRIBUTION MATRIX ] :: purple signal layer :: visual noise controlled`
+
 <div align="center">
 
 <img
@@ -161,10 +165,4 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
   alt="GitHub Contribution Graph"
 />
 
-<<<<<<< HEAD
 </div>
-=======
-</div>
-
-</div>
->>>>>>> cb6f22790209ba58fdf22e3f657ba13f6288a3c1

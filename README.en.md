@@ -15,27 +15,26 @@
 <br>
 
 ```text
-┌─[ PROFILE NODE // GUY ]──────────────────────────────────────────────┐
-│  [ SYSTEM ONLINE ]  :: signal integrity 87%  :: tty/0               │
-│  > initializing ./guy ...                                            │
-│  > loading engineering_stack ...                                    │
-│  > warning: human operator detected                                 │
-└───────────────────────────────[ // connection stable-ish ]───────────┘
+[ SYSTEM ONLINE ]  /guy  :: tty/0  :: signal 87%
+> loading engineering_stack ...
+> profile status: stable-ish
+> operator: human // proceed with caution
 ```
 
-`█▓▒░ FAST_GLITCH :: 0x47 0x55 0x59 :: SIGNAL//LOST :: 404 ░▒▓█`
+`// FAST_GLITCH :: 0x47 0x55 0x59 :: SIGNAL//LOST :: 404`
 
 ```text
 >>> SIGNAL BURST // 00110111 01000101 01011001 <<<
 ERR::MEMORY_FRAGMENTED  ERR::INPUT_UNSTABLE  ERR::COFFEE_MISSING
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-░░░░░  /dev/curiosity  ::  READ  ::  WRITE  ::  OVERFLOW  ░░░░░
+░░░ /dev/curiosity :: READ :: WRITE :: OVERFLOW ░░░
 <<< SIGNAL RESTORED // packet 0xFF // checksum: suspicious >>>
 ```
 
 `// glitch.exe --intensity=MAX --speed=FAST --damage=cosmetic :: ███ [RENDERING] ███`
 
 ## `$ whoami`
+
+`[ IDENTITY ] // online // signal: clean`
 
 João Guilherme de O. Miranda. Online, just **Guy**.
 
@@ -53,6 +52,8 @@ curiosity: permanent    sleep: deprecated    signal: unstable
 <br>
 
 ## `$ cat interests.txt`
+
+`[ MODULES ] // loaded: 07 // interference: low`
 
 ```
 Python            → automation, science, experiments escaping their original scope
@@ -74,6 +75,8 @@ It started as a Physics exercise. It got a graph. Things escalated.
 
 ## `$ ls projects/`
 
+`[ DIRECTORY ] // projects // scan: stable-ish`
+
 `[LIVE FEED] projects/ :: scan 100% :: anomaly count: 02 :: visual noise: HIGH`
 
 ```text
@@ -94,6 +97,8 @@ I have a dangerous habit of turning “this would be interesting to test” into
 
 ## `$ tail -f learning_now.log`
 
+`[ STREAM ] // learning_now.log // live feed`
+
 ```
 [...] data structures & algorithms
 [...] software architecture
@@ -111,6 +116,8 @@ I have a dangerous habit of turning “this would be interesting to test” into
 
 ## `$ cat education.md`
 
+`[ RECORD ] // education // checksum: valid`
+
 **Software Engineering** — UGB *(in progress)*
 **Mechatronics Technician** — ICT *(completed)*
 
@@ -124,6 +131,8 @@ I have a dangerous habit of turning “this would be interesting to test” into
 
 ## `$ contact`
 
+`[ LINK ] // contact ports // signal: open`
+
 <div align="center">
 
 <a href="https://github.com/jguilhermemiranda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -135,10 +144,8 @@ I have a dangerous habit of turning “this would be interesting to test” into
 <!-- if you are reading the raw, you probably already know this commit works and does not work until someone runs the build -->
 
 ```text
-┌── transport layer ───────────────────────────────────────────────────┐
-│ github://jguilhermemiranda       linkedin://joão-guilherme-o-953561313 │
-│ status: reachable                 packet loss: probably intentional   │
-└───────────────────────────────────────────────────────────────────────┘
+github://jguilhermemiranda   linkedin://joão-guilherme-o-953561313
+status: reachable             packet loss: probably intentional
 ```
 
 ---
@@ -147,14 +154,9 @@ I have a dangerous habit of turning “this would be interesting to test” into
 <sub>Guy — software engineering, mechatronics by origin</sub>
 </div>
 
-<<<<<<< HEAD
-=======
-<sub>Software Engineering Student · Python · C++ · Embedded Systems · Automation</sub>
-
-<br><br>
-
->>>>>>> cb6f22790209ba58fdf22e3f657ba13f6288a3c1
 ##  Contribution Graph
+
+`[ CONTRIBUTION MATRIX ] :: purple signal layer :: visual noise controlled`
 
 <div align="center">
 
@@ -164,10 +166,3 @@ I have a dangerous habit of turning “this would be interesting to test” into
 />
 
 </div>
-<<<<<<< HEAD
-=======
-
-</div>
-
-</div>
->>>>>>> cb6f22790209ba58fdf22e3f657ba13f6288a3c1
