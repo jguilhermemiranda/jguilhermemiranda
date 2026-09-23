@@ -54,6 +54,7 @@ curiosity: permanent    sleep: deprecated
 
 ## `$ cat interesses.txt`
 
+<<<<<<< HEAD
 ```
 Python            → automação, ciência, experimentos que fogem do escopo original
 C++               → sistemas embarcados, coisas que precisam rodar sem desculpa
@@ -63,6 +64,10 @@ sistemas embarcados, eletrônica, automação
 física, matemática, computação científica
 inteligência artificial
 ```
+=======
+</div>
+
+>>>>>>> cb6f22790209ba58fdf22e3f657ba13f6288a3c1
 
 Começou como exercício de Física. Ganhou um gráfico. As coisas escalaram.
 
@@ -156,4 +161,10 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
   alt="GitHub Contribution Graph"
 />
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+
+</div>
+>>>>>>> cb6f22790209ba58fdf22e3f657ba13f6288a3c1

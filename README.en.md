@@ -147,6 +147,13 @@ I have a dangerous habit of turning “this would be interesting to test” into
 <sub>Guy — software engineering, mechatronics by origin</sub>
 </div>
 
+<<<<<<< HEAD
+=======
+<sub>Software Engineering Student · Python · C++ · Embedded Systems · Automation</sub>
+
+<br><br>
+
+>>>>>>> cb6f22790209ba58fdf22e3f657ba13f6288a3c1
 ##  Contribution Graph
 
 <div align="center">
@@ -157,3 +164,10 @@ I have a dangerous habit of turning “this would be interesting to test” into
 />
 
 </div>
+<<<<<<< HEAD
+=======
+
+</div>
+
+</div>
+>>>>>>> cb6f22790209ba58fdf22e3f657ba13f6288a3c1
