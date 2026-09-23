@@ -4,176 +4,150 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Python+%26+C%2B%2B;Embedded+Systems+%26+Automation;Building+software+%26+real-world+systems" alt="Typing SVG" />
-
 <br>
 
-<img src="https://img.shields.io/badge/João%20Guilherme%20de%20O.%20Miranda-8A2BE2?style=for-the-badge&labelColor=1a1b27" alt="João Guilherme de O. Miranda"/>
+<div align="center">
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Software%20Engineering-Student-8A2BE2?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Background-Tec.Mecatrônica-6D28D9?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Focus-Embedded%20%26%20Automation-7C3AED?style=flat-square&labelColor=1a1b27"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=~%2Fguy;engenharia+de+software+%2B+mecatr%C3%B4nica;construindo+coisas+desde+as+3+da+manh%C3%A3" alt="terminal typing" />
 
 </div>
 
----
-
-## 👤 Sobre mim
-
-Sou estudante de **Engenharia de Software** e Técnico em **Mecatrônica**, interessado em entender como software, hardware e sistemas inteligentes podem trabalhar juntos.
-
-Atualmente, meu foco está em **desenvolvimento de software**, enquanto exploro áreas como **sistemas embarcados, automação, inteligência artificial e computação científica**.
-
-Gosto de aprender construindo: transformar uma ideia, um problema ou um conceito matemático em algo que realmente funcione.
-
-### 🔭 Áreas de interesse
-
-- 🐍 **Python** — desenvolvimento, automação e computação científica
-- ⚙️ **C++** — programação e sistemas embarcados
-- 🔌 **Embedded Systems** — ESP32, ESP8266 e Arduino
-- 🤖 **IA & LLMs** — modelos de linguagem, IA local e integração com aplicações
-- ⚡ **Automação & Eletrônica** — sistemas de controle e interação com hardware
-- 🧮 **Algoritmos & Matemática Computacional**
-- 🔬 **Física & Simulações**
-
----
-
-## 🧪 O que estou construindo
-
-Gosto de transformar conceitos em projetos práticos.
-
-Meus projetos passam por diferentes áreas, desde **algoritmos e simulações em Python** até **sistemas embarcados e automação com ESP32**.
+<br>
 
 ```text
-Python          →  Algorithms & Simulations
-C++             →  Embedded Systems
-ESP32 / ESP8266 →  Automation & Electronics
+┌─[ PROFILE NODE // GUY ]──────────────────────────────────────────────┐
+│  [ SYSTEM ONLINE ]  :: signal integrity 87%  :: tty/0               │
+│  > initializing ./guy ...                                            │
+│  > loading engineering_stack ...                                    │
+│  > warning: human operator detected                                 │
+└───────────────────────────────[ // connection stable-ish ]───────────┘
 ```
 
-A ideia é continuar explorando projetos que me façam aprender algo novo — seja uma solução de software, um algoritmo ou um sistema físico.
+`█▓▒░ 0x47 0x55 0x59 :: signal acquired :: 404 ambition not found ░▒▓█`
 
----
+```text
+>>> SIGNAL BURST // 00110111 01000101 01011001 <<<
+ERR::MEMORY_FRAGMENTED  ERR::INPUT_UNSTABLE  ERR::COFFEE_MISSING
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+░░░░░  /dev/curiosity  ::  READ  ::  WRITE  ::  OVERFLOW  ░░░░░
+<<< SIGNAL RESTORED // packet 0xFF // checksum: suspicious >>>
+```
 
-## ⭐ Repositórios em destaque
+`// glitch.exe --intensity=MAX --speed=FAST --damage=cosmetic :: ███ [RENDERING] ███`
 
-Aqui estão alguns dos projetos que melhor representam o que venho estudando e construindo.
+## `$ whoami`
 
-<div align="center">
+João Guilherme de O. Miranda. Online, só **Guy**.
 
-<a href="https://github.com/jguilhermemiranda/projectile-motion-simulator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jguilhermemiranda&repo=projectile-motion-simulator&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
-</a>
+Estudante de Engenharia de Software, técnico em Mecatrônica. Uma formação me ensinou a programar, a outra me ensinou a desconfiar de qualquer solução que só exista dentro da tela.
 
-</div>
+A Mecatrônica é a razão de eu não conseguir olhar para um problema de software sem pensar em como ele tocaria um motor de verdade.
 
-<div align="center">
-
-<a href="https://github.com/jguilhermemiranda/smart-stock">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jguilhermemiranda&repo=smart-stock&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-
-</div>
-
-> 💡 Esses repositórios representam diferentes áreas do meu desenvolvimento: **programação, algoritmos, matemática, física, automação e sistemas embarcados.**
-
----
-
-## 💻 Stack
-
-### Linguagens
-
-<p>
-<img src="https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/C%2B%2B-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1b27"/>
-</p>
-
-### Embedded Systems
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-7C3AED?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/ESP8266-6D28D9?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Arduino-5B21B6?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1b27"/>
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Windows-6D28D9?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/VS%20Code-5B21B6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1b27"/>
-</p>
-
----
-
-## 🧠 Estudando atualmente
-
-Atualmente estou aprofundando meus conhecimentos em:
-
-- Data Structures & Algorithms
-- Software Architecture
-- Databases
-- Computer Networks
-- Embedded Systems
-- Mathematical Modeling & Physics Simulation
-
----
-
-## 🎓 Formação
-
-**Engenharia de Software** — UGB  
-*Graduação em andamento*
-
-**Técnico em Mecatrônica** — Instituto de Cultura Técnica (ICT)  
-*Concluído*
-
-Minha formação em Mecatrônica é uma das bases do meu interesse por **sistemas embarcados, automação e integração entre hardware e software**.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jguilhermemiranda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguilhermemiranda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+```text
+$ id
+uid=GUI(guy) groups=software, mechatronics, physics
+$ uptime
+curiosity: permanent    sleep: deprecated
+```
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=jguilhermemiranda&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+## `$ cat interesses.txt`
 
-</div>
----
+```
+Python            → automação, ciência, experimentos que fogem do escopo original
+C++               → sistemas embarcados, coisas que precisam rodar sem desculpa
+ESP32 / ESP8266   → hardware que responde ao código (às vezes)
+Arduino           → onde tudo isso começou
+sistemas embarcados, eletrônica, automação
+física, matemática, computação científica
+inteligência artificial
+```
 
-Tenho especial interesse em projetos que combinam **programação, matemática, eletrônica e sistemas físicos**.
+Começou como exercício de Física. Ganhou um gráfico. As coisas escalaram.
 
----
+`[TRACE] input: curiosidade  ->  output: mais um experimento  ->  status: aparentemente funcionando`
 
-## 📫 Contato
+`<<<< 0011 // 404 // 0011 >>>> [buffer corruption detected] <<<< 1100 // 1100 >>>>`
+
+<br>
+
+## `$ ls projetos/`
+
+`[LIVE FEED] projects/ :: scan 100% :: anomaly count: 02 :: visual noise: HIGH`
+
+```text
+drwxr-xr-x  ./projetos/
+├── projectile-motion-simulator  [python / physics / simulation]
+└── smart-stock                  [embedded / automation / mechatronics]
+```
+
+**[projectile-motion-simulator](https://github.com/jguilhermemiranda/projectile-motion-simulator)**
+Simulador de movimento de projétil, em Python, nascido de um exercício de Física que eu decidi levar longe demais.
+
+**[smart-stock](https://github.com/jguilhermemiranda/smart-stock)**
+Sistema de gestão de estoque automatizado, TCC do técnico em Mecatrônica — embarcados e automação aplicados a um problema real de controle de materiais.
+
+Tenho o hábito perigoso de transformar "isso seria interessante de testar" em um repositório novo. Os dois acima sobreviveram ao teste do tempo.
+
+<br>
+
+## `$ tail -f estudando_agora.log`
+
+```
+[...] estruturas de dados & algoritmos
+[...] arquitetura de software
+[...] banco de dados
+[...] redes de computadores
+[...] sistemas embarcados
+[...] modelagem matemática & simulação física
+[..//WARN..] progresso detectado; reiniciando foco...
+[ERR//LOOP] foco interrompido por uma nova ideia
+```
+
+`tail -f: ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 87%`
+
+<br>
+
+## `$ cat formacao.md`
+
+**Engenharia de Software** — UGB *(em andamento)*
+**Técnico em Mecatrônica** — ICT *(concluído)*
+
+```text
+> curriculum checksum: valid
+> specialization: making software touch reality
+> last known state: still learning
+```
+
+<br>
+
+## `$ contact`
 
 <div align="center">
 
-<a href="https://github.com/jguilhermemiranda">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/jguilhermemiranda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joão-guilherme-o-953561313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:joaoguilhermeomiranda@gmail.com"><img src="https://img.shields.io/badge/Gmail-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
+
+<!-- se você está lendo o raw, provavelmente já sabe que este commit funciona e não funciona até alguém rodar o build -->
+
+```text
+┌── transport layer ───────────────────────────────────────────────────┐
+│ github://jguilhermemiranda       linkedin://joão-guilherme-o-953561313 │
+│ status: reachable                 packet loss: probably intentional   │
+└───────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
+<sub>Guy — engenharia de software, mecatrônica de origem</sub>
+</div>
 
-<sub>Software Engineering Student · Python · C++ · Embedded Systems · Automation</sub>
-
-<br><br>
-
-## 💜 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -181,7 +155,5 @@ Tenho especial interesse em projetos que combinam **programação, matemática, 
   src="https://raw.githubusercontent.com/jguilhermemiranda/jguilhermemiranda/main/contribution-glitch.svg"
   alt="GitHub Contribution Graph"
 />
-
-</div>
 
 </div>

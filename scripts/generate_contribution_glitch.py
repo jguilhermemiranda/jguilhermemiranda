@@ -11,7 +11,7 @@ GITHUB_USERNAME = "jguilhermemiranda"
 
 TOKEN = os.environ.get("GITHUB_TOKEN")
 MAX_GRAPHQL_ATTEMPTS = 4
-GLITCH_PROBABILITY = 0.32
+GLITCH_PROBABILITY = 0.72
 
 if not TOKEN:
     raise RuntimeError("GITHUB_TOKEN não encontrado.")
@@ -277,9 +277,10 @@ def generate_svg(calendar):
                 values="
                   0 0;
                   0 0;
-                  7 0;
-                  -4 0;
-                  2 0;
+                                    24 0;
+                                    -18 0;
+                                    12 0;
+                                    -8 0;
                   0 0;
                   0 0"
                 keyTimes="
@@ -288,9 +289,10 @@ def generate_svg(calendar):
                   0.48;
                   0.51;
                   0.54;
-                  0.60;
+                                    0.57;
+                                    0.63;
                   1"
-                dur="1.15s"
+                                dur="0.48s"
                 begin="{delay:.2f}s"
                 repeatCount="indefinite"/>
 
@@ -298,7 +300,7 @@ def generate_svg(calendar):
                 attributeName="opacity"
                 values="0;0;0.9;0.45;1;0"
                 keyTimes="0;0.44;0.48;0.52;0.58;0.65"
-                dur="1.15s"
+                dur="0.48s"
                 begin="{delay:.2f}s"
                 repeatCount="indefinite"/>
 
@@ -351,6 +353,41 @@ def generate_svg(calendar):
       </rect>
 
     </g>
+    """)
+
+    # Fast horizontal interference across the entire signal.
+    svg.append("""
+        <g opacity="0.9">
+
+            <rect x="-180" y="18" width="260" height="2" fill="#C4B5FD">
+                <animate attributeName="x" values="-180;900;-120;825" dur="0.72s" repeatCount="indefinite"/>
+                <animate attributeName="width" values="260;80;340;120" dur="0.72s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="0;0.95;0.2;0.85;0" dur="0.72s" repeatCount="indefinite"/>
+            </rect>
+
+            <rect x="820" y="42" width="210" height="3" fill="#A78BFA">
+                <animate attributeName="x" values="820;-260;740;-140" dur="0.54s" repeatCount="indefinite"/>
+                <animate attributeName="width" values="210;420;70;300" dur="0.54s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="0.1;0.9;0;0.8;0" dur="0.54s" repeatCount="indefinite"/>
+            </rect>
+
+            <rect x="-100" y="67" width="420" height="1" fill="#8B5CF6">
+                <animate attributeName="x" values="-100;860;-40;760" dur="0.38s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="0;0.8;0.1;0.95;0" dur="0.38s" repeatCount="indefinite"/>
+            </rect>
+
+            <rect x="700" y="91" width="300" height="4" fill="#7C3AED">
+                <animate attributeName="x" values="700;-360;880;-220" dur="0.63s" repeatCount="indefinite"/>
+                <animate attributeName="width" values="300;110;480;90" dur="0.63s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="0;0.7;0.15;1;0" dur="0.63s" repeatCount="indefinite"/>
+            </rect>
+
+            <rect x="-240" y="116" width="520" height="2" fill="#DDD6FE">
+                <animate attributeName="x" values="-240;920;-80;800" dur="0.44s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="0.1;0.85;0;0.9;0" dur="0.44s" repeatCount="indefinite"/>
+            </rect>
+
+        </g>
     """)
 
     # Scanlines
