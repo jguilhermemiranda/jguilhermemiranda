@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=~%2Fguy;engenharia+de+software+%2B+mecatr%C3%B4nica;construindo+coisas+desde+as+3+da+manh%C3%A3" alt="terminal typing" />
+<img src="terminal-glitch-pt.svg" alt="Animated terminal glitch banner" />
 
 </div>
 
@@ -20,17 +20,6 @@
 > profile status: stable-ish
 > operator: human // proceed with caution
 ```
-
-`// 0x47 0x55 0x59 :: signal acquired :: 404 ambition not found`
-
-```text
->>> SIGNAL BURST // 00110111 01000101 01011001 <<<
-ERR::MEMORY_FRAGMENTED  ERR::INPUT_UNSTABLE  ERR::COFFEE_MISSING
-░░░ /dev/curiosity :: READ :: WRITE :: OVERFLOW ░░░
-<<< SIGNAL RESTORED // packet 0xFF // checksum: suspicious >>>
-```
-
-`// glitch.exe --intensity=MAX --speed=FAST --damage=cosmetic :: ███ [RENDERING] ███`
 
 ## `$ whoami`
 
@@ -69,8 +58,6 @@ Começou como exercício de Física. Ganhou um gráfico. As coisas escalaram.
 
 `[TRACE] input: curiosidade  ->  output: mais um experimento  ->  status: aparentemente funcionando`
 
-`<<<< 0011 // 404 // 0011 >>>> [buffer corruption detected] <<<< 1100 // 1100 >>>>`
-
 <br>
 
 ## `$ ls projetos/`
@@ -107,10 +94,7 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
 [...] sistemas embarcados
 [...] modelagem matemática & simulação física
 [..//WARN..] progresso detectado; reiniciando foco...
-[ERR//LOOP] foco interrompido por uma nova ideia
 ```
-
-`tail -f: ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 87%`
 
 <br>
 
