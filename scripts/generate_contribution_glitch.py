@@ -3,6 +3,7 @@ import os
 import random
 import time
 import urllib.request
+from datetime import datetime, timedelta, timezone
 
 
 GITHUB_API = "https://api.github.com/graphql"
@@ -13,17 +14,21 @@ TOKEN = os.environ.get("GITHUB_TOKEN")
 MAX_GRAPHQL_ATTEMPTS = 4
 GLITCH_PROBABILITY = 0.72
 
+today = datetime.now(timezone.utc).date()
+FROM_DATE = f"{today - timedelta(days=364)}T00:00:00Z"
+TO_DATE = f"{today}T23:59:59Z"
+
 if not TOKEN:
     raise RuntimeError("GITHUB_TOKEN não encontrado.")
 
 
 QUERY = """
-query($login: String!) {
+query($login: String!, $from: DateTime!, $to: DateTime!) {
     user(login: $login) {
     login
     contributionsCollection(
-      from: "2025-09-22T00:00:00Z"
-      to: "2026-09-22T23:59:59Z"
+    from: $from
+    to: $to
     ) {
       contributionCalendar {
         totalContributions
@@ -45,7 +50,11 @@ def github_graphql(query):
     data = json.dumps(
         {
             "query": query,
-            "variables": {"login": GITHUB_USERNAME},
+            "variables": {
+                "login": GITHUB_USERNAME,
+                "from": FROM_DATE,
+                "to": TO_DATE,
+            },
         }
     ).encode("utf-8")
     headers = {
