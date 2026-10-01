@@ -49,7 +49,7 @@
     <text x="34" y="143">SYS::ONLINE</text>
     <text x="652" y="143">
       <animate attributeName="opacity" values=".2;1;.2" dur=".9s" repeatCount="indefinite"/>
-      SIGNAL::87%
+      SIGNAL::67%
     </text>
   </g>
 </svg>
