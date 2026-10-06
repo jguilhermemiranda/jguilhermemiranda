@@ -14,16 +14,11 @@
 
 <br>
 
-```text
-[ SYSTEM ONLINE ]  /guy  :: tty/0  :: signal 87%
-> loading engineering_stack ...
-> profile status: stable-ish
-> operator: human // proceed with caution
-```
+<img src="assets/glitch/en/system-online.svg" alt="System online terminal status with signal 87 percent" />
 
 ## `$ whoami`
 
-`[ IDENTITY ] // online // signal: clean`
+<img src="assets/glitch/en/identity-status.svg" alt="Identity status: online, clean signal" />
 
 João Guilherme de O. Miranda. Online, just **Guy**.
 
@@ -31,52 +26,35 @@ Software Engineering student and Mechatronics technician. One taught me how to p
 
 Mechatronics is why I cannot look at a software problem without wondering how it would make a real motor move.
 
-```text
-$ id
-uid=GUI(guy) groups=software, mechatronics, physics
-$ uptime --fast
-curiosity: permanent    sleep: deprecated    signal: unstable
-```
+<img src="assets/glitch/en/identity-terminal.svg" alt="Terminal showing user identity, groups, and uptime" />
 
 <br>
 
 ## `$ cat interests.txt`
 
-`[ MODULES ] // loaded: 07 // interference: low`
+<img src="assets/glitch/en/modules-status.svg" alt="Modules status: seven loaded, low interference" />
 
-```
-Python            → automation, science, experiments escaping their original scope
-C++               → embedded systems, things that need to run without excuses
-ESP32 / ESP8266   → hardware responding to code (sometimes)
-Arduino           → where it all started
-embedded systems, electronics, automation
-physics, mathematics, scientific computing
-artificial intelligence
-```
+<img src="assets/glitch/en/interests-list.svg" alt="Terminal list of software, hardware, and scientific interests" />
 
 It started as a Physics exercise. It got a graph. Things escalated.
 
-`[TRACE//FAST] input: curiosity  ->  output: one more experiment  ->  status: apparently working`
+<img src="assets/glitch/en/curiosity-trace.svg" alt="Trace from curiosity to one more experiment, apparently working" />
 
 <br>
 
 ## `$ ls projects/`
 
-`[ DIRECTORY ] // projects // scan: stable-ish`
+<img src="assets/glitch/en/projects-status.svg" alt="Projects directory status: scan stable-ish" />
 
-`[LIVE FEED] projects/ :: scan 100% :: anomaly count: 02 :: visual noise: HIGH`
+<img src="assets/glitch/en/projects-feed.svg" alt="Live projects feed: scan complete, two anomalies, high visual noise" />
 
-```text
-drwxr-xr-x  ./projects/
-├── projectile-motion-simulator  [python / physics / simulation]
-└── smart-stock                  [embedded / automation / mechatronics]
-```
+<img src="assets/glitch/en/projects-tree.svg" alt="Directory tree listing the G.U.Y. and smart-stock projects" />
 
-**[projectile-motion-simulator](https://github.com/jguilhermemiranda/projectile-motion-simulator)**
-A projectile motion simulator in Python, born from a Physics exercise I decided to take too far.
+**[G.U.Y.](https://github.com/jguilhermemiranda/guy-I.A)**
+A local AI in Python with memory, RAG, autonomous agents, and experimental neural architectures.
 
 **[smart-stock](https://github.com/jguilhermemiranda/smart-stock)**
-An automated inventory management system, the final project for my Mechatronics technical degree — embedded systems and automation applied to a real materials-control problem.
+An automated inventory management system developed as the final project for my Mechatronics technical degree — embedded systems and automation applied to a real materials-control problem.
 
 I have a dangerous habit of turning “this would be interesting to test” into a new repository. Both of the ones above survived the test of time.
 
@@ -84,38 +62,26 @@ I have a dangerous habit of turning “this would be interesting to test” into
 
 ## `$ tail -f learning_now.log`
 
-`[ STREAM ] // learning_now.log // live feed`
+<img src="assets/glitch/en/learning-status.svg" alt="Learning log stream status: live feed" />
 
-```
-[...] data structures & algorithms
-[...] software architecture
-[...] databases
-[...] computer networks
-[...] embedded systems
-[...] mathematical modeling & physics simulation
-[..//WARN..] progress detected; restarting focus...
-```
+<img src="assets/glitch/en/learning-list.svg" alt="Terminal feed of current studies and a focus warning" />
 
 <br>
 
 ## `$ cat education.md`
 
-`[ RECORD ] // education // checksum: valid`
+<img src="assets/glitch/en/education-status.svg" alt="Education record status: checksum valid" />
 
 **Software Engineering** — UGB *(in progress)*
 **Mechatronics Technician** — ICT *(completed)*
 
-```text
-> curriculum checksum: valid
-> specialization: making software touch reality
-> last known state: still learning
-```
+<img src="assets/glitch/en/education-terminal.svg" alt="Terminal showing curriculum checksum, specialization, and current learning state" />
 
 <br>
 
 ## `$ contact`
 
-`[ LINK ] // contact ports // signal: open`
+<img src="assets/glitch/en/contact-status.svg" alt="Contact ports status: signal open" />
 
 <div align="center">
 
@@ -127,10 +93,7 @@ I have a dangerous habit of turning “this would be interesting to test” into
 
 <!-- if you are reading the raw, you probably already know this commit works and does not work until someone runs the build -->
 
-```text
-github://jguilhermemiranda   linkedin://joão-guilherme-o-953561313
-status: reachable             packet loss: probably intentional
-```
+<img src="assets/glitch/en/contact-terminal.svg" alt="Terminal contact links and connection status" />
 
 ---
 
@@ -140,7 +103,7 @@ status: reachable             packet loss: probably intentional
 
 ##  Contribution Graph
 
-`[ CONTRIBUTION MATRIX ] :: purple signal layer :: visual noise controlled`
+<img src="assets/glitch/en/contribution-status.svg" alt="Contribution matrix status: purple signal layer, controlled visual noise" />
 
 <div align="center">
 
