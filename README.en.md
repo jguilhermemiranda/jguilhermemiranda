@@ -108,7 +108,7 @@ I have a dangerous habit of turning “this would be interesting to test” into
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/jguilhermemiranda/jguilhermemiranda/main/contribution-glitch.svg?v=20261008171656"
+  src="https://raw.githubusercontent.com/jguilhermemiranda/jguilhermemiranda/main/contribution-glitch.svg?v=20261008225201"
   alt="GitHub Contribution Graph"
 />
 
