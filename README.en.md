@@ -22,6 +22,8 @@
 
 João Guilherme de O. Miranda. Online, just **Guy**.
 
+I like purple; my interfaces are purple because I like them, not because I'm a "vibecoder"—just let me be happy.
+
 Software Engineering student and Mechatronics technician. One taught me how to program; the other taught me to distrust any solution that only exists inside a screen.
 
 Mechatronics is why I cannot look at a software problem without wondering how it would make a real motor move.

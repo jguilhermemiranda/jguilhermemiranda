@@ -22,6 +22,8 @@
 
 João Guilherme de O. Miranda. Online, só **Guy**.
 
+eu gosto de roxo minhas interfaces são roxas pq eu gosto não pq eu sou vibecoder deixem eu ser feliz 
+
 Estudante de Engenharia de Software, técnico em Mecatrônica. Uma formação me ensinou a programar, a outra me ensinou a desconfiar de qualquer solução que só exista dentro da tela.
 
 A Mecatrônica é a razão de eu não conseguir olhar para um problema de software sem pensar em como ele tocaria um motor de verdade.
