@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit updated graph
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "G.U.Y[bot]"
+          git config user.email "41898282+G.U.Y[bot]@users.noreply.github.com"
 
           git add README.md README.en.md contribution-glitch.svg
 
