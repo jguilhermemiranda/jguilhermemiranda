@@ -21,21 +21,38 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_contribution_glitch.py
 
-      - name: Refresh image cache
+      - name: Check if graph changed
+        id: graph
+        run: |
+          if git diff --quiet -- contribution-glitch.svg; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Contribution graph did not change."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Contribution graph changed."
+          fi
+
+      - name: Update README cache
+        if: steps.graph.outputs.changed == 'true'
         run: |
           cache_buster="$(date -u +%Y%m%d%H%M%S)"
-          sed -i -E "s#(contribution-glitch\\.svg)(\\?v=[^\" ]*)?#\\1?v=${cache_buster}#g" README.md README.en.md
 
-      - name: Commit updated graph
+          sed -i -E \
+            "s#(contribution-glitch\.svg)(\?v=[^\" ]*)?#\1?v=${cache_buster}#g" \
+            README.md README.en.md
+
+      - name: Commit changes
+        if: steps.graph.outputs.changed == 'true'
         run: |
           git config user.name "G.U.Y[bot]"
           git config user.email "41898282+G.U.Y[bot]@users.noreply.github.com"
 
-          git add README.md README.en.md contribution-glitch.svg
+          git add contribution-glitch.svg README.md README.en.md
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update contribution graph"
-            git push
+            echo "No changes detected. Nothing to commit."
+            exit 0
           fi
+
+          git commit -m "Update contribution graph"
+          git push
