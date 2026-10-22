@@ -49,7 +49,7 @@
   </g>
 
   <g font-family="Fira Code, monospace" fill="#C4B5FD" font-size="13">
-    <text x="34" y="158">[ SYSTEM ONLINE ]  /guy  :: tty/0  :: signal 87%</text>
+    <text x="34" y="158">[ SYSTEM ONLINE ]  /guy  :: tty/0  :: signal 13%</text>
     <text x="34" y="178">&gt; loading engineering_stack ...</text>
     <text x="34" y="198">&gt; profile status: stable-ish</text>
     <text x="34" y="218">&gt; operator: human // proceed with caution</text>
@@ -59,7 +59,7 @@
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0;14 2;-9 -1;6 1;0 0" dur=".42s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.85;0;.65;0" dur=".42s" repeatCount="indefinite"/>
-      <text x="34" y="158" font-size="13">[ SYSTEM ONLINE ]  /guy  :: tty/0  :: signal 87%</text>
+      <text x="34" y="158" font-size="13">[ SYSTEM ONLINE ]  /guy  :: tty/0  :: signal 14%</text>
       <text x="34" y="178" font-size="13">&gt; loading engineering_stack ...</text>
       <text x="34" y="198" font-size="13">&gt; profile status: stable-ish</text>
       <text x="34" y="218" font-size="13">&gt; operator: human // proceed with caution</text>
