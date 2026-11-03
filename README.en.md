@@ -48,12 +48,29 @@ Mechatronics is why I cannot look at a software problem without wondering how it
 <div align="left">
   <svg xmlns="http://www.w3.org/2000/svg" width="620" height="56" viewBox="0 0 620 56" role="img" aria-label="$ cat interests.txt">
     <g font-family="Fira Code, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="700" fill="#C4B5FD">
-      <text x="18" y="36" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="0">$ cat interests.txt
-        <animate attributeName="textLength" values="0;420;420" dur="1.6s" begin="0s" fill="freeze"/>
-        <animate attributeName="opacity" values="0;1" dur="0.18s" begin="0s" fill="freeze"/>
+      <text x="18" y="36" font-size="26">
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0s" fill="freeze"/>$</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.12s" fill="freeze"/> </tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.22s" fill="freeze"/>c</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.30s" fill="freeze"/>a</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.38s" fill="freeze"/>t</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.46s" fill="freeze"/> </tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.56s" fill="freeze"/>i</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.64s" fill="freeze"/>n</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.72s" fill="freeze"/>t</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.80s" fill="freeze"/>e</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.88s" fill="freeze"/>r</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="0.96s" fill="freeze"/>e</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="1.04s" fill="freeze"/>s</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="1.12s" fill="freeze"/>t</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="1.20s" fill="freeze"/>s</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="1.28s" fill="freeze"/>.</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="1.36s" fill="freeze"/>t</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="1.44s" fill="freeze"/>x</tspan>
+        <tspan opacity="0"><animate attributeName="opacity" values="0;1;1" dur="0.08s" begin="1.52s" fill="freeze"/>t</tspan>
       </text>
-      <rect x="420" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
-        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.9s" begin="1.5s" repeatCount="indefinite"/>
+      <rect x="455" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
+        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.8s" begin="1.5s" repeatCount="indefinite"/>
       </rect>
     </g>
   </svg>
