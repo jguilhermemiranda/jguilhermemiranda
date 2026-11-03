@@ -16,7 +16,20 @@
 
 <img src="assets/glitch/en/system-online.svg" alt="System online terminal status with signal 87 percent" />
 
-## `$ whoami`
+<div align="left">
+  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="56" viewBox="0 0 420 56" role="img" aria-label="$ whoami">
+    <g font-family="Fira Code, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="700" fill="#C4B5FD">
+      <text x="18" y="36" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="0">$ whoami
+        <animate attributeName="textLength" values="0;220;220" dur="1.2s" begin="0s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1" dur="0.18s" begin="0s" fill="freeze"/>
+      </text>
+      <rect x="214" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
+        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.9s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
+</div>
+
 
 <img src="assets/glitch/en/identity-status.svg" alt="Identity status: online, clean signal" />
 
@@ -32,7 +45,20 @@ Mechatronics is why I cannot look at a software problem without wondering how it
 
 <br>
 
-## `$ cat interests.txt`
+<div align="left">
+  <svg xmlns="http://www.w3.org/2000/svg" width="620" height="56" viewBox="0 0 620 56" role="img" aria-label="$ cat interests.txt">
+    <g font-family="Fira Code, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="700" fill="#C4B5FD">
+      <text x="18" y="36" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="0">$ cat interests.txt
+        <animate attributeName="textLength" values="0;420;420" dur="1.6s" begin="0s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1" dur="0.18s" begin="0s" fill="freeze"/>
+      </text>
+      <rect x="420" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
+        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.9s" begin="1.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
+</div>
+
 
 <img src="assets/glitch/en/modules-status.svg" alt="Modules status: seven loaded, low interference" />
 
@@ -44,7 +70,20 @@ It started as a Physics exercise. It got a graph. Things escalated.
 
 <br>
 
-## `$ ls projects/`
+<div align="left">
+  <svg xmlns="http://www.w3.org/2000/svg" width="500" height="56" viewBox="0 0 500 56" role="img" aria-label="$ ls projects/">
+    <g font-family="Fira Code, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="700" fill="#C4B5FD">
+      <text x="18" y="36" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="0">$ ls projects/
+        <animate attributeName="textLength" values="0;260;260" dur="1.4s" begin="0s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1" dur="0.18s" begin="0s" fill="freeze"/>
+      </text>
+      <rect x="258" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
+        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.9s" begin="1.3s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
+</div>
+
 
 <img src="assets/glitch/en/projects-status.svg" alt="Projects directory status: scan stable-ish" />
 
@@ -62,7 +101,20 @@ I have a dangerous habit of turning “this would be interesting to test” into
 
 <br>
 
-## `$ tail -f learning_now.log`
+<div align="left">
+  <svg xmlns="http://www.w3.org/2000/svg" width="920" height="56" viewBox="0 0 920 56" role="img" aria-label="$ tail -f learning_now.log">
+    <g font-family="Fira Code, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="700" fill="#C4B5FD">
+      <text x="18" y="36" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="0">$ tail -f learning_now.log
+        <animate attributeName="textLength" values="0;620;620" dur="2s" begin="0s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1" dur="0.18s" begin="0s" fill="freeze"/>
+      </text>
+      <rect x="620" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
+        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.9s" begin="1.8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
+</div>
+
 
 <img src="assets/glitch/en/learning-status.svg" alt="Learning log stream status: live feed" />
 
@@ -70,7 +122,20 @@ I have a dangerous habit of turning “this would be interesting to test” into
 
 <br>
 
-## `$ cat education.md`
+<div align="left">
+  <svg xmlns="http://www.w3.org/2000/svg" width="620" height="56" viewBox="0 0 620 56" role="img" aria-label="$ cat education.md">
+    <g font-family="Fira Code, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="700" fill="#C4B5FD">
+      <text x="18" y="36" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="0">$ cat education.md
+        <animate attributeName="textLength" values="0;330;330" dur="1.5s" begin="0s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1" dur="0.18s" begin="0s" fill="freeze"/>
+      </text>
+      <rect x="332" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
+        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.9s" begin="1.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
+</div>
+
 
 <img src="assets/glitch/en/education-status.svg" alt="Education record status: checksum valid" />
 
@@ -81,7 +146,20 @@ I have a dangerous habit of turning “this would be interesting to test” into
 
 <br>
 
-## `$ contact`
+<div align="left">
+  <svg xmlns="http://www.w3.org/2000/svg" width="330" height="56" viewBox="0 0 330 56" role="img" aria-label="$ contact">
+    <g font-family="Fira Code, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="700" fill="#C4B5FD">
+      <text x="18" y="36" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="0">$ contact
+        <animate attributeName="textLength" values="0;150;150" dur="1.1s" begin="0s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1" dur="0.18s" begin="0s" fill="freeze"/>
+      </text>
+      <rect x="152" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
+        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.9s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
+</div>
+
 
 <img src="assets/glitch/en/contact-status.svg" alt="Contact ports status: signal open" />
 
