@@ -31,7 +31,7 @@
 </div>
 
 
-<img src="assets/glitch/en/identity-status.svg" alt="Identity status: online, clean signal" />
+<img src="assets/glitch/en/identity-status.svg" alt="Typed $ whoami command loop" />
 
 João Guilherme de O. Miranda. Online, just **Guy**.
 

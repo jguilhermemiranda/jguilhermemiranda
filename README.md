@@ -16,22 +16,7 @@
 
 <img src="assets/glitch/pt/system-online.svg" alt="Status do terminal: sistema online, sinal 87 por cento" />
 
-<div align="left">
-  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="56" viewBox="0 0 420 56" role="img" aria-label="$ whoami">
-    <g font-family="Fira Code, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="700" fill="#C4B5FD">
-      <text x="18" y="36" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="0">$ whoami
-        <animate attributeName="textLength" values="0;220;220" dur="1.2s" begin="0s" fill="freeze"/>
-        <animate attributeName="opacity" values="0;1" dur="0.18s" begin="0s" fill="freeze"/>
-      </text>
-      <rect x="214" y="18" width="12" height="23" rx="2" fill="#C4B5FD">
-        <animate attributeName="opacity" values="0;1;0;1;0" dur="0.9s" begin="1.2s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-  </svg>
-</div>
-
-
-<img src="assets/glitch/pt/identity-status.svg" alt="Status da identidade: online, sinal limpo" />
+<img src="assets/glitch/pt/identity-status.svg" alt="Comando $ whoami em loop de digitação" />
 
 João Guilherme de O. Miranda. Online, só **Guy**.
 
