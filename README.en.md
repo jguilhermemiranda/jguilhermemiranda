@@ -205,7 +205,7 @@ I have a dangerous habit of turning “this would be interesting to test” into
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/jguilhermemiranda/jguilhermemiranda/main/contribution-glitch.svg?v=20261104025409"
+  src="https://raw.githubusercontent.com/jguilhermemiranda/jguilhermemiranda/main/contribution-glitch.svg?v=20261104182701"
   alt="GitHub Contribution Graph"
 />
 
