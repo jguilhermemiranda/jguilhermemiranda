@@ -190,7 +190,7 @@ Tenho o hábito perigoso de transformar "isso seria interessante de testar" em u
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/jguilhermemiranda/jguilhermemiranda/main/contribution-glitch.svg?v=20261122015410"
+  src="https://raw.githubusercontent.com/jguilhermemiranda/jguilhermemiranda/main/contribution-glitch.svg?v=20261123054243"
   alt="GitHub Contribution Graph"
 />
 
